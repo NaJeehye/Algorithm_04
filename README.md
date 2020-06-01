@@ -1,6 +1,2 @@
-# Algorithm_04
+# Algorithm_04 : HelloWorld
 
-HELLO this is HW for algorithm
-
-
-  - from jihye
